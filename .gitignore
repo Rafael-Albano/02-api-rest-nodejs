@@ -1,0 +1,25 @@
+# Node modules
+node_modules
+
+# Build files
+build/
+
+# Database files
+db/app.db
+db/test.db
+
+# Environment variables
+.env
+.env.test
+
+# Temporary files
+tmp/app.sqlite
+
+# OS files
+.DS_Store
+
+# Cursor files
+.cursorrules
+.cursor
+.cursorignore
+.cursorignore
