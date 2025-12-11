@@ -5,8 +5,7 @@ node_modules
 build/
 
 # Database files
-db/app.db
-db/test.db
+db/*.db
 
 # Environment variables
 .env
